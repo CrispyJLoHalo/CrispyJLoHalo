@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrispyJLoHalo
+- 👋 Hi, I’m Jonah
 - 👀 I’m interested in Machine Learning, IIoT 
 - 🌱 I’m currently studying Engineering & Management (B.Eng.)
 - 📫 How to reach me: Wouldn't you like to know...
