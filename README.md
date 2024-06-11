@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonah
-- 👀 I’m interested in Machine Learning, IIoT 
-- 🌱 I’m currently studying Engineering & Management (B.Eng.)
+- 👀 I’m interested in Machine Learning, IIoT, Reinforcement Learning 
+- 🌱 I’m currently studying Engineering & Management (B.Eng.) with a major in Business Intelligence & Analytics
 - 📫 How to reach me: Wouldn't you like to know...
 
 <!---
